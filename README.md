@@ -1,6 +1,7 @@
-# 🟨 hoverBox Amaliyot
+# Aziz Haram bo'lar
 
 Ushbu loyiha Frontend (JavaScript, HTML, CSS) bo‘yicha berilgan amaliy topshiriqni bajarish uchun yaratilgan.
+(Faqat Azizga ishonmanglar, u krisa bola)
 
 ## 🎯 Topshiriq
 
